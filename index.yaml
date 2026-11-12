@@ -3,10 +3,18 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.27.0
-    created: "2026-11-12T05:46:43.102857354Z"
+    created: "2026-11-12T05:59:50.694024243Z"
+    digest: 94a09f5b99f1b5422adc4b148ced351d35166df4903588b1fa0e0d10c434a844
+    name: nginx
+    urls:
+    - https://guruprasa-s-bhat.github.io/helm-charts/nginx-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.27.0
+    created: "2026-11-12T05:59:50.693912749Z"
     digest: f2801f23697bffd236cf9eaae5b748bd426d402f9229f2523155815fb9469385
     name: nginx
     urls:
-    - nginx-0.1.0.tgz
+    - https://guruprasa-s-bhat.github.io/helm-charts/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-12T05:46:43.10252924Z"
+generated: "2026-11-12T05:59:50.693425532Z"
